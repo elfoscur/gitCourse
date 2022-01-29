@@ -1,1 +1,4 @@
+adding zero line
 adding line to the file
+adding another line
+another line
